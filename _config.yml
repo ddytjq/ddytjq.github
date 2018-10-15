@@ -1,173 +1,112 @@
-title: Hello
+# main text of home
 name: YoSub Kim
-email: ddytjq@gmail.com
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-remote_theme : jameshamann/jekyll-material-theme
-baseurl: ""
-url: "http://ddytjq.github.io"
+bio: Junior Developer & Student
 
-display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
+# twitter summary info
+description: A blog about technology and stuff related
 
-parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
-parallax_image_two: assets/images/startup3.jpg
+# if it's an external image, update below for true
+# better with square images
+external-image: false
+picture: assets/images/profile.jpg
 
-project_one: "First Project"
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
-project_one_icon: location_on
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: true
+resume-external: true
+resume-url: https://google.com/?q=my+resume
 
-project_two: Second Project
-project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
-project_two_icon: photo_camera
+url: https://koppl.in/indigo
+# your url: http://USERNAME.github.io
 
+permalink: /:title/
 
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
-project_three_icon: hotel
+# To enable google analytics, supply your token below
+# analytics-google: 'UA-MYANALYTICS'
 
+# To enable piwik tracking, supply your url & site ID below
+# analytics-piwik-url: 'piwik.my-host.com'
+# analytics-piwik-id: 1
 
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
-project_four_icon: restaurant
+# if you don't want comments in your posts, leave categories empty
+disqus:
+  shortname: mydisqus # enter this from your disqus account
+  categories: [blog, project] # only show disqus for posts that have these categories
 
-portfolio_heading: Portfolio
-portfolio_type: cards
+# if you don't have any of social below, comment the line
+facebook: myfacebook
+twitter: mytwitter
+# google: mygoogle
+# instagram: myinstagram
+# pinterest: mypinterest
+# linkedin: mylinkedin
+# youtube: myyoutube
+# spotify: myspotify
+github: mygithub
+# gitlab: mygitlab
+# lastfm: mylastfm
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+medium: medium
+# vimeo: myvimeo
+# lanyrd: mylanyrd
+email: myemail@gmail.com
 
-syntax_highlighting: true
-# Skill icons from https://konpa.github.io/devicon/
+authors:
+    johndoe:
+        name: John Doe
+        bio: A Man who travels the world eating noodles
+        external-image: false
+        picture: assets/images/profile.jpg
+        twitter: johndoe
+    jamesfoster:
+        name: James Foster
+        bio: A Man who develops software with coffee
+        external-image: false
+        picture: assets/images/james.jpg
+        twitter: jamesfoster
 
-skills:
-  - name: amazonwebservices
-  - name: android
-  - name: angularjs
-  - name: apache
-  - name: appcelerator
-  - name: apple
-  - name: atom
-  - name: babel
-  - name: backbonejs
-  - name: bitbucket
-  - name: bootstrap
-  - name: bower
-  - name: c
-  - name: chrome
-  - name: codeigniter
-  - name: coffescript
-  - name: confluence
-  - name: cplusplus
-  - name: csharp
-  - name: css3
-  - name: cucumber
-  - name: d3js
-  - name: debian
-  - name: devicon
-  - name: django
-  - name: docker
-  - name: doctrine
-  - name: dot-net
-  - name: drupal
-  - name: erlang
-  - name: facebook
-  - name: firefox
-  - name: foundation
-  - name: gatling
-  - name: gimp
-  - name: git
-  - name: github
-  - name: gitlab
-  - name: go
-  - name: google
-  - name: gradle
-  - name: grunt
-  - name: gulp
-  - name: heroku
-  - name: html5
-  - name: ie10
-  - name: illustrator
-  - name: inkscape
-  - name: itellij
-  - name: java
-  - name: jasmine
-  - name: javascript
-  - name: laravel
-  - name: less
-  - name: linux
-  - name: meteor
-  - name: mocha
-  - name: mongodb
-  - name: moodle
-  - name: mysql
-  - name: nginx
-  - name: nodejs
-  - name: nodewebkit
-  - name: oracle
-  - name: photoshop
-  - name: php
-  - name: phpstorm
-  - name: protractor
-  - name: postgresql
-  - name: python
-  - name: pycharm
-  - name: rails
-  - name: react
-  - name: redhat
-  - name: redis
-  - name: ruby
-  - name: rubymine
-  - name: safari
-  - name: sass
-  - name: sequelize
-  - name: slack
-  - name: sourcetree
-  - name: ssh
-  - name: swift
-  - name: symfony
-  - name: tomcat
-  - name: travis
-  - name: trello
-  - name: twitter
-  - name: typescript
-  - name: ubuntu
-  - name: vim
-  - name: visualstudio
-  - name: vuejs
-  - name: webpack
-  - name: webstorm
-  - name: windows8
-  - name: wordpress
-  - name: yii
-  - name: zend
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: normal
 
-icon_size: 50 # font-size of icons in px
-colored: colored # Leave blank for black and white icons
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
 
-project_button: Github
+# if you don't need projects, comment the *projects* configs below
+projects: true
 
-github: https://github.com/jameshamann/jekyll-material-theme
-medium: https://medium.com
+# if you don't need "about" or "blog", comment them out below
+about: true
+blog: true
 
-baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
-url: http://localhost:4000/ #the url of your site
+# do you want to show the "read time" of the posts?
+read-time: true
 
-# Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
-tag_manager_id: # This looks something like GTM-XXXXXXX
-google_analytics_tracking_id: # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
+# do you want to show the "tags" inside the posts?
+show-tags: true
 
-cookies_banner: show # The value "show" will show the cookies banner, the value "none" will hide the banner.
+# related posts inside a post?
+related: true
 
-cookie_accept_message: Thanks!
+# Display links for next and previous posts for the specified categories
+post-advance-links: [blog]
 
-syntax_highlighting: true # include the css for syntax highlighting
+# show author block at the end of a post ?
+show-author: true
 
-# Build settings
-markdown: kramdown
-# theme: minima
-permalink: pretty
+# do you want some animations?
+animation: true
+
 plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
   - jekyll-feed
-  - jekyll-assets
-  - jekyll-minifier
+  - jemoji
+  - jekyll-admin
 
+jekyll-mentions:
+    base_url: https://github.com
