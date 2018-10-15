@@ -4,6 +4,7 @@ bio: Junior Developer & Student
 
 # twitter summary info
 description: A blog about technology and stuff related
+remote_theme : sergiokopplin/indigo
 
 # if it's an external image, update below for true
 # better with square images
