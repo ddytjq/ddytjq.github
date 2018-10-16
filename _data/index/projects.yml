@@ -36,3 +36,10 @@
   repo: cpython
   img: /static/assets/img/landing/python.png
   desc: This project is other's project. I use another request to get repo's information.
+
+- name: Python
+  i18n: cpython
+  gh_user: python
+  repo: cpython
+  img: /static/assets/img/landing/python.png
+  desc: This project is other's project. I use another request to get repo's information.
