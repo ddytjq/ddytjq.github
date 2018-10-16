@@ -2520,7 +2520,7 @@ body {
     top: 0;
     left: 0;
     min-width: 100%;
-    height: 470px;
+    height: 50%;
   }
   .carousel-fade {
     .carousel-inner {
@@ -2553,7 +2553,7 @@ body {
   }
   .carousel-inner {
     .container {
-      position: absolute;
+      position: relative;
     }
     overflow: visible;
   }
