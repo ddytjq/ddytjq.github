@@ -17,9 +17,9 @@ author:  # change following line to your infomation.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: ddytjq  # Leave blank if you don't have now
   linkedin_id: rladytjq # Leave blank if you don't have now
-  facebook_username: rladytjq  # Leave blank if you don't have now
-  email: dytjqg@gmail.com  # Leave blank if you don't have now
   instagram_username: rladytjq
+  youtube:
+  email: dytjqg@gmail.com  # Leave blank if you don't have now
   # google_plus_id: dytjqg
   #cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
