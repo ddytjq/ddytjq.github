@@ -26,6 +26,6 @@
 
 - id: Contact
   i18n: nav.link
-  name: link
+  name: Contact
   tpl: links.html
   css: contact
