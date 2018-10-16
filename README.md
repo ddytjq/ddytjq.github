@@ -1,4 +1,5 @@
-## ddytjq.github.io
+## My Blog & Portfolio
 
-#### Homepage using Indigo theme among jarrekk/Jalpc
-#### https://github.com/jarrekk/Jalpc#chart-skills
+#### Jekll Themes
+* Homepage using Indigo theme among jarrekk/Jalpc
+* https://github.com/jarrekk/Jalpc#chart-skills
