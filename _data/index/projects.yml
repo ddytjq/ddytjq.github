@@ -8,7 +8,7 @@
   url: https://github.com/ddytjq/hongik-university-project
   img: /static/assets/img/landing/hongik.jpg
   desc: 대학에서 진행했던 프로젝트 정리
-  desc2 : 네트워크, 보안, OS, DB, 데이터사이언스, 오픈소스
+  desc2 : 네트워크, 보안, OS, DB, 데이터사이언스, 오픈소스, 모바일시스템
 
 - name: 뇌파를 활용한 집중, 명상 관리 및 개선 프로그램
   i18n: kimyosub
