@@ -35,7 +35,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+#facebook: myfacebook
+instagram: rladytjq
 twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
@@ -43,7 +44,7 @@ twitter: mytwitter
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: ddytjq
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -52,7 +53,7 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: dytjqg@gmail.com
 
 authors:
     johndoe:
