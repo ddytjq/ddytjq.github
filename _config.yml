@@ -31,6 +31,7 @@ author:  # change following line to your infomation.
     - name: icon-apache
   desc: Department of Computer Information and Communication Engineering Hongik University, Grade 4 # Describe yourself.
   desc2: Junior Programmer & Student
+  
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
   name: jalpc
