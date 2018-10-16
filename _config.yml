@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: YoSub Kim  # Be used at blog posts' author.
   first_name: YoSub  # Be used at index page about me section.
   last_name: Kim  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/test.jpg  # upload your avatar at directory and edit it.
   github_username: ddytjq  # Leave blank if you don't have now
   linkedin_id: rladytjq # Leave blank if you don't have now
   instagram_username: rladytjq
@@ -31,7 +31,7 @@ author:  # change following line to your infomation.
     - name: icon-apache
   desc: Department of Computer Information and Communication Engineering Hongik University, Grade 4 # Describe yourself.
   desc2: Junior Programmer & Student
-  
+
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
   name: jalpc
