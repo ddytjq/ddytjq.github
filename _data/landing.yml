@@ -24,8 +24,8 @@
   tpl: projects.html
   css: project
 
-- id: links
+- id: Contact
   i18n: nav.link
-  name: Links
+  name: Contact
   tpl: links.html
   css: contact
