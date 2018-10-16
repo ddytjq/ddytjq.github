@@ -6,32 +6,31 @@
   gh_user: ddytjq
   repo: hongik-university-project
   url: https://github.com/ddytjq/hongik-university-project
-  img: /static/assets/img/landing/jekyll.png
-  desc: 대학에서 진행했던 프로젝트들 정리
+  img: /static/assets/img/landing/hongik.jpg
+  desc: 대학에서 진행했던 프로젝트 정리
   desc2 : 네트워크, 보안, OS, DB, 데이터사이언스, 오픈소스
 
-- name: Concentration and meditation management and improvement programs using EEG
+- name: 뇌파를 활용한 집중, 명상 관리 및 개선 프로그램
   i18n: kimyosub
   gh_user: ddytjq
   repo: EEG-based-control-program
   url: https://github.com/ddytjq/EEG-based-control-program
-  img: /static/assets/img/landing/python.png
-  desc: 졸업 프로젝트
-  desc2: EEG 와 Inception V3를 활용해 상태 측정 정확도를 올리고, 최대의 명상 집중 상태를 만드는 어플리케이션
+  img: /static/assets/img/landing/eeg.jpg
+  desc: 졸업 프로젝트 정리
+  desc2: EEG 와 Inception 을 활용한 상태 예측 및 최대의 명상 집중 상태를 만드는 어플리케이션
 
 - name: Basic Spring-Framework Project
   i18n: kimyosub
   gh_user: ddytjq
   repo: Spring-sample
   url: https://github.com/ddytjq/Spring-sample
-  img: 
-  desc: Spring, Maven, Oracle 을 활용한 간단한 홈페이지 
+  img: /static/assets/img/landing/spring.jpg
+  desc: Spring, Maven, Oracle 을 활용한 간단한 게시판 관리 
 
-- name: Inception V3 & 이미지 정확도 예측
+- name: Inception V3 를 활용한 이미지 예측
   i18n: kimyosub
   gh_user: ddytjq
   repo: EEG-Tensorflow
   url: https://github.com/ddytjq/EEG-Tensorflow
-  img: /static/assets/img/landing/python.png
-  desc: Google의 오픈소스 신경망 Inception V3와 EEG Data 이용
-  desc2: colab-gpu, python, processing3 
+  img: /static/assets/img/landing/tensor.jpg
+  desc: Google 오픈소스 신경망 Inception V3와 EEG Data 이용
