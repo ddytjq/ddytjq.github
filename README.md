@@ -1,4 +1,4 @@
 ## ddytjq.github.io
 
-#### Homepage using Indigo theme among jekyll-theme
-#### http://jekyllthemes.org/themes/indigo/
+#### Homepage using Indigo theme among jarrekk/Jalpc
+#### https://github.com/jarrekk/Jalpc#chart-skills
