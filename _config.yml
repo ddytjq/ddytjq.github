@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
     - name: fa-apple
   skill_icon2:
     - name: fa-linux
-    - name: fa-amazon
+    - name: fa-android
     # icon-apache
   desc: Department of Computer Information and Communication Engineering Hongik University, Grade 4 # Describe yourself.
   desc2: Junior Programmer & Student
