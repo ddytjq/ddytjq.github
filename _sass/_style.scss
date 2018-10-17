@@ -2500,8 +2500,9 @@ body {
     height: auto;
   }
   .header-back {
+    position: absolute;
     height: 470px;
-    width: auto;
+    width: 100%;
     background-position: 50% 0;
     background-repeat:  no-repeat;
   }
