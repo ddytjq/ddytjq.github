@@ -9,7 +9,7 @@
     <div class="row">
         <!-- first two icons -->
         {% for icon in site.author.skill_icon1 %}
-        <div class="col-xs-3 wow fadeInLeft">
+        <div class="col-xs-2 wow fadeInLeft">
             <div class="team-member">
                 <div class="vote-icon" style="text-align: center">
                     <i class="fa {{ icon.name }}"></i>
@@ -25,9 +25,13 @@
                 <ul class="list-inline social-icon">
                     {% if site.author.github_username %}
                     <li><a href="https://github.com/{{ site.author.github_username }}" target="blank"><i class="fa fa-github"></i></a></li>
+                    <br>
+                    <br>
                     {% endif %}
                     {% if site.author.linkedin_id %}
                     <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin_id }}" target="blank"><i class="fa fa-linkedin"></i></a></li>
+                    <br>
+                    <br>
                     {% endif %}
                     {% if site.author.facebook_username %}
                     <li><a href="https://www.facebook.com/{{ site.author.facebook_username }}" target="blank"><i class="fa fa-facebook"></i></a></li>
