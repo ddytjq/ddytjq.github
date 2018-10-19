@@ -18,7 +18,7 @@
     detail: Rootous system
     i18n: company_b
   desc:
-    detail: Freebsd, IPFW, Dummynet, Apache, C ...
+    detail: Freebsd, IPFW, Dummynet, C, bash
     i18n: company_b_desc
   date:
     detail: Dec. 2017 ~ Feb. 2018
