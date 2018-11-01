@@ -7,8 +7,8 @@
   repo: hongik-university-project
   url: https://github.com/ddytjq/hongik-university-project
   img: /static/assets/img/landing/hongik.jpg
-  desc: 대학에서 진행했던 프로젝트 정리
-  desc2 : 네트워크, 보안, OS, DB, 데이터사이언스, 오픈소스, 모바일시스템
+  desc: 학부생때 진행했던 프로젝트 정리
+  desc2 : Network, Computer Security, Operating System, Database, Data Science, Opensource Software, Mobile System
 
 - name: 뇌파를 활용한 집중, 명상 관리 및 개선 프로그램
   i18n: kimyosub
@@ -17,7 +17,7 @@
   url: https://github.com/ddytjq/EEG-based-control-program
   img: /static/assets/img/landing/eeg.jpg
   desc: 졸업 프로젝트 정리
-  desc2: EEG 와 Inception 을 활용한 상태 예측 및 최대의 명상 집중 상태를 만드는 어플리케이션
+  desc2: EEG 와 Inception 을 활용한 정확한 상태 예측 및 최대의 명상 집중 상태를 만드는 프로그램
 
 - name: Inception V3 를 활용한 이미지 예측
   i18n: kimyosub
