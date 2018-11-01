@@ -19,6 +19,14 @@
   desc: 졸업 프로젝트 정리
   desc2: EEG 와 Inception 을 활용한 상태 예측 및 최대의 명상 집중 상태를 만드는 어플리케이션
 
+- name: Inception V3 를 활용한 이미지 예측
+  i18n: kimyosub
+  gh_user: ddytjq
+  repo: EEG-Tensorflow
+  url: https://github.com/ddytjq/EEG-Tensorflow
+  img: /static/assets/img/landing/tensor.jpg
+  desc: Google 오픈소스 신경망 Inception V3와 EEG Data 이용
+
 - name: Basic Spring-Framework Project
   i18n: kimyosub
   gh_user: ddytjq
@@ -27,10 +35,10 @@
   img: /static/assets/img/landing/spring2.jpg
   desc: Spring, Maven, Oracle 을 활용한 간단한 게시판 관리 
 
-- name: Inception V3 를 활용한 이미지 예측
+- name: Algorithm-practice
   i18n: kimyosub
   gh_user: ddytjq
-  repo: EEG-Tensorflow
-  url: https://github.com/ddytjq/EEG-Tensorflow
-  img: /static/assets/img/landing/tensor.jpg
-  desc: Google 오픈소스 신경망 Inception V3와 EEG Data 이용
+  repo: Algorithm-practice
+  url: https://github.com/ddytjq/Algorithm-practice
+  img: /static/assets/img/landing/algorithm.jpg
+  desc: My Algorithm practice project (Java, Python)
