@@ -27,7 +27,7 @@
   img: /static/assets/img/landing/tensor.jpg
   desc: Google 오픈소스 신경망 Inception V3와 EEG Data 이용
 
-- name: Basic Spring-Framework Project
+- name: Bulletin board management project using spring
   i18n: kimyosub
   gh_user: ddytjq
   repo: Spring-sample
