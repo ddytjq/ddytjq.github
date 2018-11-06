@@ -7,7 +7,7 @@
   repo: hongik-university-project
   url: https://github.com/ddytjq/hongik-university-project
   img: /static/assets/img/landing/hongik.jpg
-  desc: 학부생때 진행했던 프로젝트 정리
+  desc: 대학에서 진행했던 프로젝트 정리
   desc2 : Network, Security, OS, DB, Data Science, Opensource, Mobile System
 
 - name: 뇌파를 활용한 집중, 명상 관리 및 개선 프로그램
@@ -18,6 +18,14 @@
   img: /static/assets/img/landing/eeg.jpg
   desc: 졸업 프로젝트 정리
   desc2: EEG 와 Inception 을 활용한 정확한 상태 예측 및 최대의 명상 집중 상태를 만드는 프로그램
+
+- name: Firewall-IPFW 테스트를 위한 환경 구축 및 확인
+  i18n: kimyosub
+  gh_user: ddytjq
+  repo: IPFW-test
+  url: https://github.com/ddytjq/IPFW-test
+  img: /static/assets/img/landing/ipfw.jpg
+  desc: IPFW 방화벽 테스트를 위한 환경 구축 및 패킷 접점 & Rule 접점 확인 
 
 - name: Inception V3 를 활용한 이미지 예측
   i18n: kimyosub
