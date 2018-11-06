@@ -27,7 +27,7 @@
   img: /static/assets/img/landing/ipfw.jpg
   desc: IPFW 방화벽 테스트를 위한 환경 구축 및 패킷 접점 & Rule 접점 확인 
 
-- name: Inception V3 를 활용한 이미지 예측
+- name: Inception v3 를 활용한 이미지 예측
   i18n: kimyosub
   gh_user: ddytjq
   repo: EEG-Tensorflow
