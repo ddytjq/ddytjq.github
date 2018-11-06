@@ -19,7 +19,7 @@
   desc: 졸업 프로젝트 정리
   desc2: EEG 와 Inception 을 활용한 정확한 상태 예측 및 최대의 명상 집중 상태를 만드는 프로그램
 
-- name: IPFW 방화벽 테스트 프로젝트
+- name: ipfw-firewall test project
   i18n: kimyosub
   gh_user: ddytjq
   repo: IPFW-test
