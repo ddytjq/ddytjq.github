@@ -22,8 +22,8 @@
 - name: ipfw-firewall test project
   i18n: kimyosub
   gh_user: ddytjq
-  repo: IPFW-test
-  url: https://github.com/ddytjq/IPFW-test
+  repo: IPFW
+  url: https://github.com/ddytjq/IPFW
   img: /static/assets/img/landing/ipfw.jpg
   desc: IPFW 방화벽 테스트를 위한 환경 구축 및 패킷 접점 & Rule 접점 확인 
 
@@ -33,7 +33,7 @@
   repo: EEG-Tensorflow
   url: https://github.com/ddytjq/EEG-Tensorflow
   img: /static/assets/img/landing/tensor.jpg
-  desc: Google 오픈소스 신경망 Inception V3와 EEG Data 이용
+  desc: Inception V3와 EEG Data 이용하여 상태 예측
 
 - name: Bulletin board management project using spring
   i18n: kimyosub
@@ -41,7 +41,7 @@
   repo: Spring-sample
   url: https://github.com/ddytjq/Spring-sample
   img: /static/assets/img/landing/spring2.jpg
-  desc: Spring, Maven, Oracle 을 활용한 간단한 게시판 관리 
+  desc: Spring, Maven, Oracle 을 활용한 게시판 관리 
 
 - name: Algorithm-practice
   i18n: kimyosub
