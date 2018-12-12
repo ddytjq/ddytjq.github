@@ -7,7 +7,7 @@
   repo: hongik-university-project
   url: https://github.com/ddytjq/hongik-university-project
   img: /static/assets/img/landing/hongik.jpg
-  desc: 대학에서 진행했던 프로젝트 정리
+  desc: 대학에서 진행한 프로젝트 정리
   desc2 : Network, Security, OS, DB, Data Science, Opensource, Mobile System
 
 - name: 뇌파를 활용한 집중, 명상 관리 및 개선 프로그램
@@ -16,8 +16,8 @@
   repo: EEG-based-control-program
   url: https://github.com/ddytjq/EEG-based-control-program
   img: /static/assets/img/landing/eeg.jpg
-  desc: 졸업 프로젝트 정리
-  desc2: EEG 와 Inception 을 활용한 정확한 상태 예측 및 최대의 명상 집중 상태를 만드는 프로그램
+  desc: Graduation Project
+  desc2: EEG 와 Inception 을 활용한 정확한 상태 예측 및 최대의 집중, 명상 상태를 만드는 프로그램
 
 - name: IPFW를 이용한 방화벽 테스트
   i18n: kimyosub
@@ -33,7 +33,7 @@
   repo: EEG-Tensorflow
   url: https://github.com/ddytjq/EEG-Tensorflow
   img: /static/assets/img/landing/tensor.jpg
-  desc: Inception으로 EEG Data를 이용하여 사용상태 예측
+  desc: Inception으로 EEG Data를 이용하여 사용자 상태 예측
 
 - name: Bulletin board management project
   i18n: kimyosub
@@ -41,7 +41,7 @@
   repo: Spring-sample
   url: https://github.com/ddytjq/Spring-sample
   img: /static/assets/img/landing/spring2.jpg
-  desc: Spring, Maven, Oracle 을 활용한 게시판 관리 
+  desc: Spring, Maven, Oracle (Docker) 를 활용한 게시판 관리 
 
 - name: Algorithm-practice
   i18n: kimyosub
