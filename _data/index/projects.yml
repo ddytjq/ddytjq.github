@@ -19,7 +19,7 @@
   desc: 졸업 프로젝트 정리
   desc2: EEG 와 Inception 을 활용한 정확한 상태 예측 및 최대의 명상 집중 상태를 만드는 프로그램
 
-- name: ipfw-firewall test project
+- name: IPFW를 이용한 방화벽 테스트
   i18n: kimyosub
   gh_user: ddytjq
   repo: IPFW
@@ -27,7 +27,7 @@
   img: /static/assets/img/landing/ipfw.jpg
   desc: IPFW 방화벽 테스트를 위한 환경 구축 및 패킷 & Rule 접점 확인 
 
-- name: Inception v3 를 활용한 이미지 예측
+- name: Inception을 활용한 이미지 예측
   i18n: kimyosub
   gh_user: ddytjq
   repo: EEG-Tensorflow
@@ -35,7 +35,7 @@
   img: /static/assets/img/landing/tensor.jpg
   desc: Inception으로 EEG Data를 이용하여 사용상태 예측
 
-- name: Bulletin board management project using spring
+- name: Bulletin board management project
   i18n: kimyosub
   gh_user: ddytjq
   repo: Spring-sample
