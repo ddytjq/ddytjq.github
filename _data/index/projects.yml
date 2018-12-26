@@ -17,7 +17,7 @@
   url: https://github.com/ddytjq/EEG-based-control-program
   img: /static/assets/img/landing/eeg.jpg
   desc: Graduation Project
-  desc2: EEG 와 Inception 을 활용한 정확한 상태 예측 및 최대의 집중, 명상 상태를 만드는 프로그램
+  desc2: EEG 와 Inception 을 활용한 상태 예측 및 최대의 집중, 명상 상태를 만드는 프로그램
 
 - name: IPFW를 이용한 방화벽 테스트
   i18n: kimyosub
