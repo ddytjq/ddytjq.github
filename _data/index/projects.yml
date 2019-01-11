@@ -35,13 +35,13 @@
   img: /static/assets/img/landing/tensor.jpg
   desc: User state prediction using EEG data with inception
 
-- name: Bulletin board management project
+- name: Web Bulletin board management project
   i18n: kimyosub
   gh_user: ddytjq
   repo: Spring-sample
   url: https://github.com/ddytjq/Spring-sample
   img: /static/assets/img/landing/spring2.jpg
-  desc: Managing bulletin boards using Spring, Maven, Oracle
+  desc: Managing web bulletin boards using Spring, Maven, Oracle
 
 - name: Algorithm-practice
   i18n: kimyosub
