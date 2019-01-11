@@ -8,7 +8,7 @@
   url: https://github.com/ddytjq/hongik-university-project
   img: /static/assets/img/landing/hongik.jpg
   desc: All projects at the university
-  desc2 : Network, Security, OS, DB, Data Science, Opensource, Mobile System
+  desc2 : Class :Network, Security, OS, DB, Data Science, Opensource, Mobile System
 
 - name: Concentration and meditation management program using EEG
   i18n: kimyosub
