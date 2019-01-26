@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, Confidence, Java Jsp Spring, WAS, Network, Algorithm, Default
-percentage: 60, 100, 60, 70, 60, 60, 60
+aspects: GitHub, Confidence, Java Jsp Spring, WAS, Network, AWS, Default
+percentage: 60, 100, 60, 70, 60, 40, 60

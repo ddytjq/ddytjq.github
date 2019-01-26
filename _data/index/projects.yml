@@ -43,10 +43,10 @@
   img: /static/assets/img/landing/spring2.jpg
   desc: Managing web bulletin boards using Spring, Maven, Oracle
 
-- name: Algorithm-practice
+- name: AWS Practice
   i18n: kimyosub
   gh_user: ddytjq
-  repo: Algorithm-practice
-  url: https://github.com/ddytjq/Algorithm-practice
-  img: /static/assets/img/landing/algorithm.jpg
-  desc: My Algorithm practice project (Java, Python)
+  repo: AWS
+  url: https://github.com/ddytjq/AWS
+  img: /static/assets/img/landing/aws.jpg
+  desc: My AWS practice project
