@@ -40,7 +40,7 @@
   gh_user: ddytjq
   repo: Spring-sample
   url: https://github.com/ddytjq/Spring-sample
-  img: /static/assets/img/landing/spring2.jpg
+  img: /static/assets/img/landing/spring.jpg
   desc: Managing web bulletin boards using Spring, Maven, Oracle
 
 - name: AWS Practice
