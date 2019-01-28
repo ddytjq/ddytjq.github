@@ -1,7 +1,6 @@
-## My Blog & Portfolio
+# My Blog & Portfolio
+https://ddytjq.github.io
 
-#### Jekyllthemes
-* Using jarrekk/Jalpc
+## 1. copyright
+* jarrekk/Jalpc
 
-#### Demo
-* https://ddytjq.github.io
