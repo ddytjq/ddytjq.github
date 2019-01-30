@@ -31,8 +31,8 @@ author:  # change following line to your infomation.
     - name: fa-linux
     - name: fa-android
     # icon-apache
-  desc: 안녕하세요, 저는 김요섭 입니다. Web과 WAS를 좋아하는 Junior programmer 입니다. # Describe yourself.
-  desc2: 요즘은 AWS를 활용에 관심이 많습니다. 다양한 프로젝트를 경험하고 새롭게 배우는 것을 좋아합니다. 만나서 반갑습니다.
+  desc: 안녕하세요, 저는 김요섭 입니다. Web과 WAS 분야에 관심있는 Junior programmer 입니다. # Describe yourself.
+  desc2: 요즘은 AWS에 대해 공부 중입니다. 다양한 프로젝트를 경험하고 새롭게 배우는 것을 좋아합니다. 만나서 반갑습니다.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
