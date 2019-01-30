@@ -8,7 +8,7 @@
   url: https://github.com/ddytjq/hongik-university-project
   img: /static/assets/img/landing/hongik.jpg
   desc: 대학교에서 진행했던 프로젝트 정리
-  desc2 : 네트워크, 컴퓨터 보안, DB 관리 등 여러 진행 프로젝트를 정리
+  desc2 : 컴퓨터 보안, 데이터 사이언스, 데이터 베이스, 모바일 시스템, 네트워크 실험, 운영체제 프로젝트
 
 - name: 뇌파를 활용한 집중, 명상 관리 및 개선 프로그램
   i18n: kimyosub
@@ -16,7 +16,7 @@
   repo: EEG-based-control-program
   url: https://github.com/ddytjq/EEG-based-control-program
   img: /static/assets/img/landing/eeg.jpg
-  desc: 졸업 작품
+  desc: 졸업 프로젝트
   desc2: 최상의 명상 상태를 만들어 최대의 집중을 발휘하도록 도움을 주는 프로그램
 
 - name: IPFW 방화벽 테스트
