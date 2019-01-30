@@ -31,8 +31,8 @@ author:  # change following line to your infomation.
     - name: fa-linux
     - name: fa-android
     # icon-apache
-  desc: Department of Computer Information and Communication Engineering, Hongik University Grade 4 # Describe yourself.
-  desc2: Junior Programmer & Student
+  desc: 안녕하세요, 저는 김요섭 입니다. Web과 WAS에 관심이 있는 Junior programmer 입니다. # Describe yourself.
+  desc2: 다양한 프로젝트를 경험하고 새롭게 배우는 것을 좋아합니다. 만나서 반갑습니다.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
