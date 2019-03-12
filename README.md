@@ -1,6 +1,3 @@
-# My Blog & Portfolio
-https://ddytjq.github.io
-
-## 1. copyright
+## copyright
 * jarrekk/Jalpc
 
